@@ -1,18 +1,18 @@
 
 
-
+/* Setting size for computer */
 body {
     width: 70%;
     margin: auto;
 }
 
+/* Article title */
 h1 {
     color: indigo;
 }
 
-
+/* Main article text */
 #article {
-    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 1px solid black; 
     padding: 5px;
